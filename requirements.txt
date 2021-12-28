@@ -1,0 +1,30 @@
+# Jupyter lab
+black
+isort
+jupyterlab_code_formatter
+jupyterlab_execute_time
+jupyter_bokeh
+jupyter-dash
+jupyterlab-git
+jupyterlab-link-share
+jupyter-videochat
+# Kernel
+nb_conda_kernels
+ipykernel
+ipympl
+ipyleaflet
+ipytree
+ipyvolume
+ipywidgets
+# Data science core
+jupytext
+netCDF4
+xarray
+# Data science viz
+hvplot
+ipyleaflet
+# Data science apps
+cdsdashboards
+panel
+streamlit
+voila
