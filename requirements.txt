@@ -9,7 +9,6 @@ jupyterlab-git
 jupyterlab-link-share
 jupyter-videochat
 # Kernel
-nb_conda_kernels
 ipykernel
 ipympl
 ipyleaflet
